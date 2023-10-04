@@ -1,8 +1,9 @@
-title: 正版验证 & 绑定
+title: Premium verify & bind
 description: |
-  如果你拥有正版 Minecraft 账号，可点击下面的按钮进行验证并绑定。如果验证成功，你将获得正版账号对应的角色，并可获得 :score 积分。
+  Click the bottom button to verify and bind if you have a Minecraft premium account. You can get a profile with your premium name if verification passed, and extra :score scores.
 
   绑定正版 Minecraft 账号要求先绑定其所属的 Microsoft 账户。如果你还没有绑定 Microsoft 账户，验证完成后将自动绑定。
+  
 warning: <strong>正版账号绑定后不允许解绑</strong>，且 Microsoft 账户也不允许解绑。唯一的解绑方法是删除 LittleSkin 账号，请谨慎考虑后再绑定。
 verify: 验证并绑定
 
