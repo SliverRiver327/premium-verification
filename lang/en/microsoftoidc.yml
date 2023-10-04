@@ -15,7 +15,6 @@ inherit:
   description: |
     We detect your mail address of your Microsoft account has register a LittleSkin account：
     <code>:email</code>
-    已注册过 LittleSkin
 
     Would you like to quick login and bind?
   confirm: Sure
