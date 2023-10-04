@@ -1,9 +1,9 @@
-title: 新·正版验证
-description: 为拥有正版账号的用户提供验证、绑定。
-pro: 正版
+title: NEW!! Premium Verification
+description: Provide verify and bind services for premium users.
+pro: PRO
 
 error:
-  invalid-state: 验证参数无效，请重新请求验证
-  invalid-jwt: JWT 无效，请重新请求验证
-  jwt-exception: 无法解析 JWT，请联系站点管理员处理
-  jwK-exception: 无法解析 JWK，请联系站点管理员处理
+  invalid-state: Invaild arguments when verifing, please request verifing again.
+  invalid-jwt: Invaild JWT, please request verifing again.
+  jwt-exception: Can't resolve JWT, please contact site admins for help.
+  jwK-exception: Can't resolve JWK, please contact site admins for help.
